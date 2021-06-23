@@ -1,0 +1,99 @@
+{
+	"header": {
+		"name": "Ahamad",
+		"titles": ["Web Developer", "Mentor", "Trainer"]
+	},
+	"socialLinks": {
+		"facebook": "https://www.facebook.com/ahamad.sbn",
+		"instagram": "https://www.instagram.com/ahamad_2_min_1/",
+		"linkedin": "https://www.linkedin.com/in/kutagolla-ahamad-121491131/"
+	},
+	"about": {
+		"mainDescription": "I am a full-stack web developer. I have been working on web technologies for 3 years. Every new thing in this world excites me to explore. I read a lot of blogs about tech and software. I love traveling. I mentor people in my free time. I train students who come out of college to get their first job." ,
+		"title": "Full Stack Web Developer",
+		"subDescription1": "In the initial days of my career, I have worked as an Electronics Engineer and then moved to a different career path. Now I am working as a Senior Software Engineer at In Time Tec.",
+		"subDescription2": "I am open to learn from people and society. I like to stay in the present and value what I have. I play all kinds of games and sports. I play volleyball and cricket more often. I like watching sports as well. My three favorite players are Cristiano Ronaldo (Football), Novak Djokovic (Tennis), and MS Dhoni (Cricket).",
+		"birthday": "24 February 1997",
+		"website": "www.ahamadk.com",
+		"phone": "+91 8179992839",
+		"city": "Bengaluru, India",
+		"age": 24,
+		"degree": "Bachelor of Technology",
+		"email": "sbnahamad@gmail.com",
+		"freelance": "Available"
+	},
+	"skill": {
+		"description": "In the last three years, I acquired a wide range of skills while working with different clients and projects. Also, I have been working on some fun projects in my free time to explore new technologies and standards.",
+		"skills":
+		[
+			{ "name": "ANGULAR", "rating": 80},
+			{ "name": "NGRX", "rating": 80},
+			{ "name": "BOOTSTRAP", "rating": 80},
+			{ "name": "JAVASCRIPT", "rating": 80},
+			{ "name": "HTML", "rating": 80},
+			{ "name": "CSS", "rating": 70},
+			{ "name": "NODE.JS", "rating": 70},
+			{ "name": "FIREBASE", "rating": 70},
+			{ "name": "MONGODB", "rating": 60},
+			{ "name": ".NET FRAMEWORK", "rating": 60},
+			{ "name": ".NET CORE", "rating": 70},
+			{ "name": "POSTGRESQL/SQL", "rating": 50}
+		]
+	},
+	"contact": {
+		"description": "I am available to work, collaborate, mentor, and train in my free time. Please reach out.",
+		"location": "#46 Vs Residency, Bengaluru, India",
+		"email": "sbnahamad@gmail.com",
+		"call": "+91 8179992839",
+		"link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.3376397392794!2d77.70644391464494!3d12.950233490869905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae13e0fbaee0b1%3A0x2c1937e1967bb30c!2sVS%20Residency!5e0!3m2!1sen!2sin!4v1624434915323!5m2!1sen!2sin"
+	},
+	"resume": {
+		"description": "Innovative and deadline-driven Web Developer with 3 years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.",
+		"summary": {
+			"name": "Ahamad",
+			"title": "Senior Software Engineer",
+			"points": ["Bengaluru, Karnataka, India", "+91 8179992839", "sbnahamad@gmail.com"]
+		},
+		"education": [
+			{
+			"title": "PRIMARY & SECONDAY SCHOOL EDUCATION",
+			"period": "2000 - 2012",
+			"institute": "Gautham High School, Madanapalle, India",
+			"points": ["I completed my primary and secondary school education with first-class marks of 88%"]
+			},
+			{
+			"title": "MATHS, PHYSICS & CHEMISTRY (INTERMEDIATE)",
+			"period": "2012 - 2014",
+			"institute": "NRI College, Tirupati, India",
+			"points": ["I pursued my plus two in MPC and completed with a first-class mark of 87%"]
+			},
+			{
+			"title": "BACHELOR OF TECHNOLOGY & SCIENCE",
+			"period": "2014 - 2018",
+			"institute": "Madanapalle Institute of Technology & Science, Madanapalle, India",
+			"points": ["I pursued my bachelor's degree in Electronics and Communication Engineering and completed it with a first-class mark of 80%"]
+			}
+		],
+		"professional": [
+			{
+			"title": "SENIOR SOFTWARE ENGINEER",
+			"period": "2021 - Present",
+			"institute": "In Time Tec, Bengaluru, India",
+			"points": ["Lead in the design, development, and implementation of the User Interface", "Delegate tasks to the members of the development team and provide counsel on all aspects of the project.", "Code reviews to ensure quality and standards of the implementation", "Mentored junior developers at a team and organizational level"]
+			},
+			{
+			"title": "SOFTWARE ENGINEER",
+			"period": "2019 - 2020",
+			"institute": "In Time Tec, Bengaluru, India",
+			"points": ["Collaborated with the team in the design, development, and implementation of the UI layouts, and client communications", "Collaborated with team members and completed the development of tasks on time.", "Part of different learning programs to learn standards of coding and software architecture", "Created UML diagrams for every feature and implemented software design patterns to make the application robust"]
+			},
+			{
+			"title": "JUNIOR SOFTWARE ENGINEER",
+			"period": "2018 - 2019",
+			"institute": "In Time Tec, Bengaluru, India",
+			"points": ["Learned Angular and .NET as part of training", "Completed all tasks at a given time while under pressure", "Recommended and consulted with clients on the most appropriate requirements and development", "Created demo presentations and proposals at the end of each development sprint"]
+			}
+		]
+	},
+	"name": "Ahamad"
+}
